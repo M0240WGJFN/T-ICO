@@ -1,7 +1,7 @@
 {
-    "name": "T3TK-ICO",
-    "description": "T3TK-ICO",
-    "keywords": ["vss mess."],
+    "name": "T-ICO",
+    "description": "T-ICO",
+    "keywords": ["vss mes."],
     "env": {
         "AA": {
             "description": "初阶用户只需修改以下AUUID点击页面最后的Deploy app按钮即可开始部署",
