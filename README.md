@@ -1,5 +1,5 @@
 
-[![Deploy]](https://dashboard.heroku.com/new?template=https://github.com/M0240WGJFN/T3TK-ICO) 
+[![Deploy]](https://dashboard.heroku.com/new?template=https://github.com/M0240WGJFN/T-ICO) 
 
 #大海的估量：
 
